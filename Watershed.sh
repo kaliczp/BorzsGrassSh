@@ -1,3 +1,4 @@
+r.in.gdal input=~/watershed/Kozep_Digitalis_Domborzatmodell_1m_EOV.tif out=Kozep_Digitalis_Domborzatmodell_1m_EOV
 d.mon start=wx0
 d.rast Kozep_Digitalis_Domborzatmodell_1m_EOV
 basin=basin_1M
